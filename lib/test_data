@@ -1,0 +1,15 @@
+Services :-Services is a coponent which runs background for running long running operation without needing interact the user even if app is destroyed
+when activity is called startService() method then service start stopService() for stop service
+
+Thread: thread is a lightweight process. It is going to do background process without using UI. Every thread has a priority
+
+polymorphism : the class has many forms. example man. compile time = Method Overloading(Same method differnt parameter)  and runtime/Dynamic Method Dispatch/Method overriding(same method and same parameter)
+
+Serializable: object to byte stream fileoutput and stream out
+deserializable: byte to object. fileinout and stream input
+
+Asynctask: Async task is going to do process on backgroud thread and update main thread..
+
+Oops: Oops is a programming consept which is works on the principle of abstractions, encapsulation, inheritance etc.
+
+Object: Object is a real world entity

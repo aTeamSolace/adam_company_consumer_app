@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531485841115",
+    "project_id": "adam-companies-android",
+    "storage_bucket": "adam-companies-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531485841115:android:82e8a78fae953b2eab5efe",
+        "android_client_info": {
+          "package_name": "com.adamcompanies.consumerapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531485841115-em86oegp4j3khv7t60p308in8d3281hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamcompanies.consumerapptest",
+            "certificate_hash": "e4e8dbc9326b1e444120fa7978f833dbee33ee21"
+          }
+        },
+        {
+          "client_id": "531485841115-ufsrum0fe3etkq2hkk62gjpl3opeb5ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDd-qnzuhDTUlaSYov2u2QSjJEfoOw08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531485841115-ufsrum0fe3etkq2hkk62gjpl3opeb5ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
